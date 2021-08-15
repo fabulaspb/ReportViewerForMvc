@@ -15,7 +15,7 @@ This library will setup all of that work for you, and will provide easy access t
 Download & install from [NuGet](https://www.nuget.org/packages/ReportViewerForMvc/).
 
 ```PowerShell
-PM> Install-Package ReportViewerForMvc
+PM> Install-Package Datium.ReportViewerForMvc4
 ```
 
 ## How do I use it?
